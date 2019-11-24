@@ -1,8 +1,8 @@
 {
     "categories": [{
-                   "category_id": "ori_1",
+                   "category_id": "ori1000",
                    "category_name": "Weapon",
-                   "category_thumbnail": "ori_1.png",
+                   "category_thumbnail": "ori1000_1_0.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
                    "file_extension": "png",
                    "animes": [{
