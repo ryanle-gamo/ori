@@ -67,61 +67,870 @@
                               }
                               ]
                    },{
-                   "category_id": "3008",
-                   "category_name": "Miley Cyrus",
-                   "category_thumbnail": "3008.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/",
+                   "category_id": "ori1001",
+                   "category_name": "Animal",
+                   "category_thumbnail": "ori1001_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
                    "file_extension": "png",
-                   "is_video": "false",
                    "animes": [{
                               "anime_id": "1",
-                              "anime_name": "American Music Awards 2013",
-                              "anime_step":10
+                              "anime_name": "",
+                              "anime_step":23
                               },
                               {
                               "anime_id": "2",
-                              "anime_name": "V Magazine Summer 2013",
+                              "anime_name": "",
                               "anime_step":10
                               },
                               {
                               "anime_id": "3",
-                              "anime_name": "ELLE UK June 2013",
-                              "anime_step":9
+                              "anime_name": "",
+                              "anime_step":14
                               },
                               {
                               "anime_id": "4",
-                              "anime_name": "Music Video Wrecking Ball",
-                              "anime_step":9
+                              "anime_name": "",
+                              "anime_step":15
                               },
                               {
                               "anime_id": "5",
-                              "anime_name": "Movie - So Undercover",
+                              "anime_name": "",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":26
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "",
+                              "anime_step":23
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "",
+                              "anime_step":8
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1002",
+                   "category_name": "Birds",
+                   "category_thumbnail": "ori1002_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":13
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1003",
+                   "category_name": "Boats",
+                   "category_thumbnail": "ori1003_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
                               "anime_step":10
                               },
                               {
                               "anime_id": "6",
-                              "anime_name": "Fashion November 2013",
-                              "anime_step":9
+                              "anime_name": "",
+                              "anime_step":13
                               },
                               {
                               "anime_id": "7",
-                              "anime_name": "Studio Photo By Terry Richardson",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":16
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1004",
+                   "category_name": "Christmas",
+                   "category_thumbnail": "ori1004_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":26
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":16
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1005",
+                   "category_name": "Dinosaurs And Dragons",
+                   "category_thumbnail": "ori1005_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":38
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":26
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1006",
+                   "category_name": "Fish And Paper Aquatic Animals",
+                   "category_thumbnail": "ori1006_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":29
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "",
+                              "anime_step":19
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1007",
+                   "category_name": "Flower",
+                   "category_thumbnail": "ori1007_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":33
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":23
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":35
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":26
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":9
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1008",
+                   "category_name": "Flying Paper Airplanes",
+                   "category_thumbnail": "ori1008_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
                               "anime_step":10
                               },
                               {
                               "anime_id": "8",
-                              "anime_name": "Movie - L.O.L.",
-                              "anime_step":9
+                              "anime_name": "",
+                              "anime_step":13
                               },
                               {
                               "anime_id": "9",
-                              "anime_name": "Laughing",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "",
+                              "anime_step":15
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1009",
+                   "category_name": "For Kids",
+                   "category_thumbnail": "ori1009_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "23",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "24",
+                              "anime_name": "",
+                              "anime_step":6
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1010",
+                   "category_name": "Paper Insects",
+                   "category_thumbnail": "ori1010_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":11
+                              }
+                              ]
+                   },{
+                   "category_id": "ori1011",
+                   "category_name": "Things For Girls And Women",
+                   "category_thumbnail": "ori1011_1_0.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "",
                               "anime_step":14
                               },
                               {
                               "anime_id": "10",
-                              "anime_name": "Miley Cyrus 2012",
-                              "anime_step":20
+                              "anime_name": "",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "",
+                              "anime_step":12
                               }
                               ]
                    }]
