@@ -1,6 +1,6 @@
 {
 "latest_version": "1.0.1",
-"is_testing": true,
+"is_testing": false,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/make_origami_people_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/make_origami_people_category.json",
