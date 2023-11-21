@@ -5,5 +5,8 @@
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/make_origami_people_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/make_origami_people_category.json",
 "file_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
-"appstore_url": "https://apps.apple.com/us/app/id1126278121"
+"appstore_url": "https://apps.apple.com/us/app/id1126278121",
+  "stop_step_index_at":3,
+  "is_idfa_enabled":true,
+  "isDetailAdsFloat": false
 }
