@@ -1,6 +1,6 @@
 {
 "latest_version": "1.1.1",
-"is_testing": false,
+"is_testing": true,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/make_origami_people_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/ori/master/make_origami_people_category.json",
@@ -8,5 +8,7 @@
 "appstore_url": "https://apps.apple.com/us/app/id1126278121",
   "stop_step_index_at":3,
   "is_idfa_enabled":true,
-  "isDetailAdsFloat": false
+  "isDetailAdsFloat": false,
+  "att_title":"App supports free content",
+  "att_message":"App activity helps support content creator by allowing ads and keeping content free for you. Continue to Allow Tracking to keep supporting free content"
 }
